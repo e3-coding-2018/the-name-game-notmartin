@@ -25,9 +25,10 @@ public class TheNameGame {
             b = "";
         }
 
-        String song = x + sep + x + sep + "bo-b" + b + y + "\n";
-        song = song + "Banana-fana, fo-f" + y + "\n";
-        song = song 
+        String song = x + sep + x + sep + "bo-b" + y + "\n";
+        song = song + "Banana-fana fo-f" + y + "\n";
+        song = song + "Fee-fi-mo-" + y + "\n";
+        song = song + x +"!" + "\n";
         return song;
     }
 }
